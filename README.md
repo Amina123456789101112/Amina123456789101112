@@ -8,7 +8,7 @@
 export default () => ({
   pronouns: "She" | "Her",
   fullName: "Amina Tourisse",
-  location: "Morocco"
+  location: "Morocco",
   school: {
     name: "OFPPT BAB TIZIMI",
     program: "Digital Development – Full Stack Web",
@@ -17,10 +17,13 @@ export default () => ({
   skills: [
     "HTML", "CSS", "JavaScript", 
     "PHP", "MySQL", "Bootstrap",
-    "Git", "GitHub" "Python"
-  ],
+    "Git", "GitHub", "Python"
+  ]
 });
+
 ```
+
+
 <!--
 **Amina123456789101112/Amina123456789101112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
