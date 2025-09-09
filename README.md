@@ -6,7 +6,7 @@
 </div>
 
 ```js
-export default () => ({
+export Personal () => ({
   name: "Amina Tourisse",
   pronouns: "She" | "Her",
   location: "Morocco",
