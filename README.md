@@ -15,11 +15,20 @@ export Personal () => ({
     program: "Digital Development – Full Stack Web",
     degree: "Technician Specialized"
   },
-  skills: [
-    "HTML", "CSS", "JavaScript", 
-    "PHP", "MySQL", "Bootstrap",
-    "Git", "GitHub", "Python"
-  ]
+languages: ["Arabic", "French", "English"],
+  technologies: {
+    frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    backend: ["Python", "PHP"],
+    design: ["Canvas"],
+    tools: ["GitHub", "VSCode"]
+  },
+  skills: ["Communication", "Teamwork", "Creativity", "Adaptability"],
+  hobbies: ["Reading", "Traveling", "Drawing"],
+  passions: [
+    "Simplifying user interfaces",
+    "Protecting visual assets",
+    "Creating anime-style illustrations with personal features"
+  ],
 });
 ```
 
