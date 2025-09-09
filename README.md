@@ -1,7 +1,9 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1>
-<div align="center">
-  <img src="./assets/تصميم بدون عنوان (4).gif" style="height:300px;" />
-</div>
+<a href="https://github.com/Amina12345678901112">
+  <img align="right" height="150" src="https://github.com/Amina12345678901112/Amina12345678901112/raw/main/assets/amina-banner.gif" 
+       style="max-width: 100%; height: auto; max-height: 150px; display: inline-block;">
+</a>
+
 <!--
 **Amina123456789101112/Amina123456789101112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
