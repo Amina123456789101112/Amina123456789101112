@@ -5,7 +5,7 @@
   </a>
 </div>
 
-export default () => ({
+\\\ export default () => ({
   pronouns: "She" | "Her",
   fullName: "Amina Tourisse",
   email: "fouziamina2000@gmail.com",
@@ -60,7 +60,7 @@ export default () => ({
     "Supporter of open-source accounting tools",
     "Advocate for visual privacy in tech design"
   ]
-});
+}); \\\
 
 <!--
 **Amina123456789101112/Amina123456789101112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
