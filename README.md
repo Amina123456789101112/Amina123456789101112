@@ -20,7 +20,6 @@ export default () => ({
     "Git", "GitHub", "Python"
   ]
 });
-
 ```
 
 
