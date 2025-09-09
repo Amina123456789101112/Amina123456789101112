@@ -5,11 +5,6 @@
   </a>
 </div>
 
-# Sudipto Ghosh 👨‍💻
-
-
-👨‍🎓 Doctoral Researcher at IIT Delhi doing some LLM Research 👾
-
 ```js
 export default () => ({
 pronouns: "He" | "Him",
