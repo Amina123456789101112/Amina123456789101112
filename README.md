@@ -4,29 +4,9 @@
     <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/8d7f82a9d36f39ce7f624ee1f02a4fe0e61e7773/assets/%D8%AA%D8%B5%D9%85%D9%8A%D9%85%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%B9%D9%86%D9%88%D8%A7%D9%86%20(4).gif" height="200px">
   </a>
 </div>
-```js
-export default () => ({
-  name: "Amina Tourisse",
-  pronouns: "She" | "Her",
-  location: "Morocco",
-  program: "Digital Development – Full Stack Web",
-  degree: "Technician Specialized",
-  skills: [
-    "HTML", "CSS", "JavaScript", "PHP",
-    "SQL", "Java", "C", "Python"
-  ]
-});
-```
 
 # Sudipto Ghosh 👨‍💻
 
-<!-- [![ACM](https://img.shields.io/badge/-ACM%20Student%20Member-222222?style=flat-square&logo=acm&logoColor=white&link=http://member.acm.org/~sudiptoghosh)](http://member.acm.org/~sudiptoghosh)-->
-[![Twitter](https://img.shields.io/badge/-X-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/ScientificGhosh/)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/ScientificGhosh/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sudiptoghosh99/)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-222222?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=q__PYvYAAAAJ&hl=en)](https://scholar.google.com/citations?user=q__PYvYAAAAJ&hl=en)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
-<!-- [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/sudiptog81)](https://keybase.io/sudiptog81) -->
 
 👨‍🎓 Doctoral Researcher at IIT Delhi doing some LLM Research 👾
 
