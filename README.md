@@ -15,6 +15,8 @@ Sociales</b>   ,  where I combined my technical and accounting knowledge to deli
     <li>💬 I’m especially interested in projects that blend <b>technology, design, and cultural identity</b> , and I’m always open to collaboration. </li>
     <li>📫 How to reach me:</li>
 </ul>
+
+
 ```js
 export Personal () => ({
   name: "Amina Tourisse",
