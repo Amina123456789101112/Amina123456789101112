@@ -4,19 +4,20 @@
     <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/456864c5b61f635dfe03d3f543e74c5529128d31/assets/%40tourrisse.gif" height="200px" >
     </a>
 </div>
-<br><br>
 <div align="center">
-  <a href="#" >
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="#">
-  <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>  </a>
-     <a href="#" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-     <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio Badge"/>
+</a>
+
 </div>  
 
 <hr></hr>
