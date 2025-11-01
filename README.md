@@ -20,7 +20,7 @@ I'm passionate about technology and always excited to learn new things.</p>
 
 ```js
 export Personal () => ({
-  name: "Amina Tourisse",
+  name: "Amina Tourrisse",
   pronouns: "She" | "Her",
   role: 'Junior Web Full Stack ',
   },
