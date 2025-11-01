@@ -5,6 +5,7 @@
     </a>
 </div>
 <br><br>
+<hr></hr>
 
 ```js
 export Personal () => ({
