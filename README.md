@@ -7,6 +7,10 @@
 <br><br>
 <hr></hr>
 <h1>About me:</h1><br>
+<blockquote>
+<p dir="auto">🌟 Welcome to my GitHub!<br>
+I'm passionate about technology and always excited to learn new things.</p>
+</blockquote>
 <ul>
     <li>🔭I’m a passionate <b>Full Stack Web Developer</b> with a strong background in <b>Economics and Management</b>. </li>
     <li>🌱 I am eager to learn and focused on building <b>efficient digital solutions </b>that improve business performance.</li>
