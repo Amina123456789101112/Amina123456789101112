@@ -7,12 +7,10 @@
 <br><br>
 <h1>About me:</h1><br>
 <ul>
-    <li>🔭 I’m Amina Tourrisse, a passionate <b>Full Stack Web Developer</b> with a strong background in <b>Economics and Management</b>. Currently pursuing my studies in <b>Digital Development – Web Full Stack</b>.</li>
-    <li>🌱 I’m curious and always eager to learn, with a focus on building <b>efficient digital solutions</b> that improve business performance and integrate modern tools into organizational systems.</li>
-    <li> 🚀 I have hands-on experience through internships at the <b>OFPPT</b>  and <b>Faculté des Sciences Juridiques, Économiques et
-Sociales</b>   ,  where I combined my technical and accounting knowledge to deliver practical solutions. </li>
-    <li>💻 My technical skills include <b>HTML, CSS, JavaScript, PHP, MySQL</b> , and tools like <b>GitHub, Trello, and Figma</b>.</li>
-    <li>💬 I’m especially interested in projects that blend <b>technology, design, and cultural identity</b> , and I’m always open to collaboration. </li>
+    <li>🔭 I’m Amina Tourrisse, a passionate <b>Full Stack Web Developer</b> with a strong background in <b>Economics and Management</b>. </li>
+    <li>🌱 I am eager to learn and focused on building <b>efficient digital solutions </b>that improve business performance.</li>
+    <li> 🚀 I have gained hands-on experience through internships at<b>OFPPT</b>  and the <b>Faculty of Economic</b> . </li>
+    <li>🤝 I am open to collaboration and new opportunities. </li>
     <li>📫 How to reach me:</li>
 </ul>
 
