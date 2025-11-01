@@ -9,7 +9,7 @@
 <h1>About me:</h1><br>
 <blockquote>
 <p dir="auto">🌟 Welcome to my GitHub!<br>
-I'm passionate about technology and always excited to learn new things.</p>
+I’m committed to technology and always keen to learn new things.</p>
 </blockquote>
 <ul>
     <li> <b>🔭I’m a passionate Full Stack Web Developer with a strong background in Economics and Management.</b> </li>
