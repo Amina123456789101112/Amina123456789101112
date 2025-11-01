@@ -12,10 +12,10 @@
 I'm passionate about technology and always excited to learn new things.</p>
 </blockquote>
 <ul>
-    <li>🔭I’m a passionate <b>Full Stack Web Developer</b> with a strong background in <b>Economics and Management</b>. </li>
-    <li>🌱 I am eager to learn and focused on building <b>efficient digital solutions </b>that improve business performance.</li>
-    <li> 🚀 I have gained hands-on experience through internships at <b>OFPPT</b>  and the <b>Faculty of Economic</b> . </li>
-    <li>🤝 I am open to collaboration and new opportunities. </li>
+    <li> <b>🔭I’m a passionate Full Stack Web Developer with a strong background in Economics and Management.</b> </li>
+    <li><b>🌱 I am eager to learn and focused on building efficient digital solutions that improve business performance.</b></li>
+    <li> <b>🚀 I have gained hands-on experience through internships at OFPPT  and the Faculty of Economic.</b> </li>
+    <li><b>🤝 I am open to collaboration and new opportunities.</b> </li>
 </ul>
 
 
