@@ -5,20 +5,20 @@
     </a>
 </div>
 <br><br>
-<div id="user-content-badges" align="center" dir="auto">
-  <a href="#">
-    <img src="https://camo.githubusercontent.com/11e0a16b802bd759e22e68a1356acad3d8713c3aec344f4445c578d069e06583/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d707572706c653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%; direction: ltr;" _mstalt="211211">
+<div align="center">
+  <a href="#" >
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
-    <img src="https://camo.githubusercontent.com/b3ab6e2ae7306a386d4437a912f7213057de4381d10363a97566db00a2b8610b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="CV" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=CV&amp;logoColor=white" style="max-width: 100%; direction: ltr;" _mstalt="197119">
-  </a>
-     <a href="#">
-    <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%; direction: ltr;" _mstalt="144222">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
      <a href="#" >
-    <img src="https://camo.githubusercontent.com/7d3fa68f95601082035de01eb26df41005f90b3b2582a6e53876358c2e2c7174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" data-canonical-src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+     <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+</div>  
 
 <hr></hr>
 <h1>About me:</h1><br>
