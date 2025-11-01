@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=readme&logoColor=white" alt="CV Badge"/>  </a>
      <a href="#" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
