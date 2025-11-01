@@ -12,9 +12,9 @@
 I’m committed to technology and always keen to learn new things.</p>
 </blockquote>
 <ul>
-    <li> <b>🔭I’m a passionate Full Stack Web Developer with a strong background in Economics and Management.</b> </li>
-    <li><b>🌱 I am eager to learn and focused on building efficient digital solutions .</b></li>
-    <li> <b>🚀 I have gained hands-on experience through internships at OFPPT  and the Faculty of Economics.</b> </li>
+    <li> <b>🧑‍💻 Full Stack Web Developer with a background in Economics and Management.</b> </li>
+    <li><b>🌱 Passionate about learning and building efficient digital solutions.</b></li>
+    <li> <b>🎓 Hands-on experience through internships at OFPPT and the Faculty of Economics.</b> </li>
 </ul>
 
 
