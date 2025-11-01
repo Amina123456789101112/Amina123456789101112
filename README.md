@@ -8,15 +8,13 @@
 <h1>About me:</h1><br>
 <ul>
     <li>🔭 I’m Amina Tourrisse, a passionate <b>Full Stack Web Developer</b> with a strong background in <b>Economics and Management</b>. Currently pursuing my studies in <b>Digital Development – Web Full Stack</b>.</li>
-    <li>🌱 I’m curious and always eager to learn, with a focus on building **efficient digital solutions** that improve business performance and integrate modern tools into organizational systems.</li>
-    <li> 🚀 I have hands-on experience through internships at the OFPPT and  Faculté des Sciences Juridiques, Économiques et
-Sociales  ,  where I combined my technical and accounting knowledge to deliver practical solutions. </li>
-    <li>💻 My technical skills include **HTML, CSS, JavaScript, PHP, MySQL**, and tools like **GitHub, Trello, and Figma**. I’m also fluent in **Arabic, French, and English**, which helps me collaborate in diverse environments. </li>
-    <li>💬 I’m especially interested in projects that blend **technology, design, and cultural identity**, and I’m always open to collaboration. </li>
+    <li>🌱 I’m curious and always eager to learn, with a focus on building <b>efficient digital solutions</b> that improve business performance and integrate modern tools into organizational systems.</li>
+    <li> 🚀 I have hands-on experience through internships at the <b>OFPPT</b>  and <b>Faculté des Sciences Juridiques, Économiques et
+Sociales</b>   ,  where I combined my technical and accounting knowledge to deliver practical solutions. </li>
+    <li>💻 My technical skills include <b>HTML, CSS, JavaScript, PHP, MySQL</b> , and tools like <b>GitHub, Trello, and Figma</b>.</li>
+    <li>💬 I’m especially interested in projects that blend <b>technology, design, and cultural identity</b> , and I’m always open to collaboration. </li>
     <li>📫 How to reach me:</li>
 </ul>
-<hr></hr>
-
 ```js
 export Personal () => ({
   name: "Amina Tourisse",
