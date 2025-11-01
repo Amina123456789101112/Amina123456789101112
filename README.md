@@ -16,7 +16,7 @@
     <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%; direction: ltr;" _mstalt="144222">
   </a>
    
-     <a href="https://elena-arocena-portfolio.netlify.app/" rel="nofollow">
+     <a href="#" >
     <img src="https://camo.githubusercontent.com/7d3fa68f95601082035de01eb26df41005f90b3b2582a6e53876358c2e2c7174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" data-canonical-src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" style="max-width: 100%;">
   </a>
 </div>
