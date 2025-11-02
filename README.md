@@ -87,6 +87,10 @@ languages: ["Arabic", "French", "English"],
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="max-width: 100%; height: auto; max-height: 50px;"></code> 
     </a> 
 </p>
+<hr></hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amina123456789101112&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 
 <!--
