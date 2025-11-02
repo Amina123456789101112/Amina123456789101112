@@ -4,6 +4,7 @@
     <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/456864c5b61f635dfe03d3f543e74c5529128d31/assets/%40tourrisse.gif" height="200px" >
     </a>
 </div>
+<!-- les lien de contact  -->
 <div align="center">
   <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -88,6 +89,7 @@ languages: ["Arabic", "French", "English"],
     </a> 
 </p>
 <hr></hr>
+<h1>Github Stats: </h1><br>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amina123456789101112&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amina123456789101112&theme=tokyonight" />
