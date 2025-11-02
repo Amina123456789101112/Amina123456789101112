@@ -88,9 +88,23 @@ languages: ["Arabic", "French", "English"],
     </a> 
 </p>
 <hr></hr>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amina123456789101112&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amina123456789101112&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amina123456789101112&theme=tokyonight" />
+</div>
+
+<br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amina123456789101112&&style=flat-square&color=0A66C2" align="center" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina123456789101112&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amina123456789101112" />
+</div>
+
 
 
 <!--
