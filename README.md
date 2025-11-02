@@ -107,6 +107,8 @@ languages: ["Arabic", "French", "English"],
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amina123456789101112&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amina123456789101112" />
 </div>
 
+<hr></hr>
+<p dir="auto">⭐️ <em>Thanks for visiting my GitHub profile! Feel free to explore my projects or reach out if you'd like to collaborate.</em></p>
 
 
 <!--
