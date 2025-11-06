@@ -91,8 +91,7 @@ languages: ["Arabic", "French", "English"],
 <hr></hr>
 <h1>Github Stats: </h1><br>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amina123456789101112&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amina123456789101112&theme=tokyonight" alt="a" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Amina123456789101112&show_icons=true&theme=tokyonight" />
 </div>
 
 <br/>  
