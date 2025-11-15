@@ -2,8 +2,7 @@
 <div align="center">
   <a href="https://github.com/Amina123456789101112">
       <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/@tourrisse%20(2).png?raw=true" height="200px">
-    
-    <img src="https://clipart-library.com/images/Aibrd8g8T.gif" height="20px">
+    <img src="" height="20px">
   </a>
 </div>
 <!-- les lien de contact  -->
