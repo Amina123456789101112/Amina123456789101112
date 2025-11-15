@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/@tourrisse%20(2).png" height="200px">
   </a>
   <br>
-  <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/Aibrd8g8T.gif" height="20px">
+  <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/Aibrd8g8T.gif" height="60px">
 </div>
 
 <!-- les lien de contact  -->
