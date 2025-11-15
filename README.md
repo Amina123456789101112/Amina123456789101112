@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1><br>
 <div align="center">
   <a href="https://github.com/Amina123456789101112">
-      <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/@tourrisse%20(2).png?raw=true" height="200px">
+      <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/@tourrisse%20(2).png?raw=true" height="200px"><br>
     <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/Aibrd8g8T.gif?raw=true" height="20px">
   </a>
 </div>
