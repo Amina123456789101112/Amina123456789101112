@@ -1,13 +1,12 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1><br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/Aibrd8g8T.gif" width="60" height="60" style="border-radius:'100%';">
+  <br>
   <a href="https://github.com/Amina123456789101112">
     <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/@tourrisse%20(2).png" height="200px">
   </a>
-  <br>
-  <div style="display: 'inline-block'; border-radius:'50%'; overflow: 'hidden'; height: '60px'; width: '60px';">
-    <img src="https://raw.githubusercontent.com/Amina123456789101112/Amina123456789101112/main/assets/Aibrd8g8T.gif" height="60px" width="60px">
-  </div>
 </div>
+
 
 
 <!-- les lien de contact  -->
