@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1><br>
 <div align="center">
- <table>
+ <table border:'none'>
   <tr>
     <td>
       <a href="https://github.com/Amina123456789101112">
