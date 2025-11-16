@@ -58,7 +58,7 @@ languages: ["Arabic", "French", "English"],
 });
 ```
 <hr></hr>
-<h1><img src="" height="200px">
+<h1><img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/laptop.gif?raw=true" height="100px">
   Languages and Tools: </h1><br>
 <p align="left" dir="auto">
     <a href="https://www.python.org/" rel="nofollow"> 
