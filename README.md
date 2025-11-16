@@ -1,12 +1,11 @@
 <h1 align="center">hi 👋 I'm Amina Tourrisse </h1><br>
 <div align="center">
-      <p>
-            <a href="https://github.com/Amina123456789101112">
-     <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/1_ezgif_com_gif_maker_3_V4-ezgif.com-crop.gif?raw=true" height="200px">       
-        </a>
-      <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/alarm-19387_256-ezgif.com-crop.gif?raw=true" height="60px">
-      </p>
+  <a href="https://github.com/Amina123456789101112">
+    <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/1_ezgif_com_gif_maker_3_V4-ezgif.com-crop.gif?raw=true" height="200px">
+  </a>
+  <img src="https://github.com/Amina123456789101112/Amina123456789101112/blob/main/assets/alarm-19387_256-ezgif.com-crop.gif?raw=true" height="60px" style="vertical-align: middle;">
 </div>
+
 
 
 
